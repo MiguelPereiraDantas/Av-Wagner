@@ -10,7 +10,7 @@ Atualmente, dois plugins oficiais estão disponíveis:
 
 ## Expanding the ESLint configuration
 
-Se você estiver desenvolvendo um aplicativo de produção, recomendamos atualizar a configuração para ativar regras lint com reconhecimento de tipo:
+Se você estiver desenvolvendo um aplicativo de produção, recomendo atualizar a configuração para ativar regras lint com reconhecimento de tipo:
 
 - Configure the top-level `parserOptions` property like this:
 
